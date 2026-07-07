@@ -1,0 +1,43 @@
+Команды для регистрации ваших дланных
+Git config --global user.name "nuri-nurik"
+Git config --global user.email "Your-emailnuripokopk@gmail.com"
+===============================================================
+
+Команды только для одно проекта
+1) Это команды для инициализации Git в вашем новом проекте,
+пишется в одном раз в начале после создании проекта:
+
+Git init
+
+2) Это команда будет вставить вашу ссылку на ваш репозиторий:
+
+git remote add origin https://github.com/nuri-nurik/oop68-2.git
+
+
+
+Основные команды для роботы с Git
+
+
+1) Проверка состояния нашего проекта
+
+git status
+
+2) Скопировать в буфер
+
+git add .
+
+3) Сохранить все что у нас в буффэре
+
+git commit -m "firts lesson save"
+
+
+4) отправка сохранений в GitHub
+
+git push origin main или master
+
+
+
+
+
+
+
