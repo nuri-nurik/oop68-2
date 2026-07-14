@@ -11,7 +11,7 @@ Git init
 
 2) Это команда будет вставить вашу ссылку на ваш репозиторий:
 
-git remote add origin https://github.com/nuri-nurik/oop68-2.git
+c
 
 
 
@@ -28,7 +28,7 @@ git add .
 
 3) Сохранить все что у нас в буффэре
 
-с
+git commit -m "Initial test1"
 
 firts lesson save
 4) отправка сохранений в GitHub
