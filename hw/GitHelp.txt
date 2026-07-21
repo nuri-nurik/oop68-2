@@ -13,7 +13,7 @@ Git init
 
 c
 
-git commit -m”test1”
+git commit -m”lesson4”
 
 Основные команды для роботы с Git
 
