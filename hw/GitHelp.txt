@@ -28,7 +28,7 @@ git add .
 
 3) Сохранить все что у нас в буффэре
 
-git commit -m "lesson5"
+git commit -m "lesson6"
 
 firts lesson save
 4) отправка сохранений в GitHub
