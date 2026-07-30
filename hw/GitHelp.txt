@@ -13,7 +13,7 @@ Git init
 
 c
 
-git commit -m”lesson4”
+git commit -m”test2”
 
 Основные команды для роботы с Git
 
@@ -28,7 +28,7 @@ git add .
 
 3) Сохранить все что у нас в буффэре
 
-git commit -m "lesson6"
+git commit -m "test2"
 
 firts lesson save
 4) отправка сохранений в GitHub
